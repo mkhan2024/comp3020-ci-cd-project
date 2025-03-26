@@ -1,3 +1,3 @@
-# COMP-3020
- 
-This repository shows how to use GitHub Actions (Super-Linter) for Continuous Integration.
+# COMP-3020 CI/CD Assignment 12
+
+This repository demonstrates Continuous Integration using GitHub Actions (Super-Linter).
